@@ -1,6 +1,6 @@
 # Scraper de tabela de ações do site Yahoo Finance usando Pandas
 
-## Ferramente utilizada: Google Colab
+## Ferramenta utilizada: Google Colab
 ## Site em que foi feito o scraper: https://finance.yahoo.com/most-active
 
 ## Bibliotecas adicionais: requests
